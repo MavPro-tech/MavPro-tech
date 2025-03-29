@@ -25,7 +25,7 @@
 
 |    Semestre    |    Nome do Projeto      |                           Cliente                         |                           Descrição                        |  Repositório |
 | :----------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------:|
-|  1SEM | Sensor Barreira  | Interno | O sensor de barreira é um dispositivo eletrônico que utiliza a tecnologia de emissão de luz infravermelha, o sistema (IVA), para detectar movimentações irregulares no ambiente. | [Sensor Barreira](https://github.com/Grupo-Syntax-Squad/API)
+|  1SEM | Sensor Barreira  | Interno | O sensor de barreira é um dispositivo eletrônico que utiliza a tecnologia de emissão de luz infravermelha, o sistema (IVA), para detectar movimentações irregulares no ambiente. | [Sensor Barreira](https://github.com/MavPro-tech/Sensor_2025-01.git)
 
 
 ## 👥 Equipe
