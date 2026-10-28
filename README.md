@@ -26,6 +26,7 @@
 |    Semestre    |    Nome do Projeto      |                           Cliente                         |                           Descrição                        |  Repositório |
 | :----------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------:|
 |  1SEM | Sensor Barreira  | Interno | O sensor de barreira é um dispositivo eletrônico que utiliza a tecnologia de emissão de luz infravermelha, o sistema (IVA), para detectar movimentações irregulares no ambiente. | [Sensor Barreira](https://github.com/MavPro-tech/Sensor_2025-01.git)
+|  2SEM | Carrinho Explorador  | Interno | O carrinho explorador Roover 4x4 é um veículo robótico controlado remotamente por radiofrequência (RF), desenvolvido para permitir o controle de seus movimentos à distância. | [Carrinho Explorador]( https://github.com/MavPro-tech/Carrinho_Explorador )
 
 
 ## 👥 Equipe
