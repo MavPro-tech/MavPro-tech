@@ -8,19 +8,20 @@
 ## 🔧 O que fazemos?<br>
 ✔️ Desenvolvimento de projetos tecnológicos e soluções inovadoras;<br>
 ✔️ Aplicação de conceitos de eletrônica, mecânica, programação e automação;<br>
-✔️ Criação e desenvolvimento de sistemas de controle e acionamento;<br>
-✔️ Utilização de componentes eletrônicos, sensores, motores e controladores;<br>
+✔️ Criação e desenvolvimento de sistemas de monitoramento, controle e acionamento;<br>
+✔️ Utilização de componentes eletrônicos, sensores, microcontroladores e interfaces digitais;<br>
+✔️ Integração de tecnologias para coleta, processamento e visualização de dados;<br>
 ✔️ Elaboração de projetos técnicos, protótipos, testes e documentação;<br>
-✔️ Trabalho em equipe para transformar ideias em soluções práticas e funcionais.<br>
+✔️ Trabalho em equipe para transformar ideias em soluções práticas, eficientes e funcionais.<br>
 
 ---
 
 ## 🚀Tecnologias que usamos:<br>
-🔹 **Programação:** Linguagem Ladder e lógica de controle;<br>
-🔹**Hardware:** CLP Siemens LOGO!, contatores, disjuntores e motores trifásicos;<br>
-🔹 **Sistemas elétricos:** Circuitos de potência e comando;<br>
-🔹 **Alimentação:** Fonte de alimentação de 24 VCC;<br>
-🔹 **Desenvolvimento:** Desenhos técnicos, diagramas elétricos, montagem e testes;<br>
+🔹 **Programação:** Linguagem C++ e desenvolvimento de interfaces gráficas;<br>
+🔹 **Hardware:** ESP32-C3, ESP32-S3, sensor DHT22, tela touchscreen, LED e buzzer;<br>
+🔹 **Comunicação:** Conexão Wi-Fi para transmissão dos dados entre os dispositivos;<br>
+🔹 **Interface gráfica:** SquareLine Studio e biblioteca LVGL;<br>
+🔹 **Desenvolvimento:** Montagem dos circuitos, integração dos componentes, testes e ajustes do sistema.<br>
  
 
 
