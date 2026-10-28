@@ -33,6 +33,7 @@
 |  1SEM | Sensor Barreira  | Interno | O sensor de barreira é um dispositivo eletrônico que utiliza a tecnologia de emissão de luz infravermelha, o sistema (IVA), para detectar movimentações irregulares no ambiente. | [Sensor Barreira](https://github.com/MavPro-tech/Sensor_2025-01.git)
 |  2SEM | Carrinho Explorador  | Interno | O carrinho explorador Roover 4x4 é um veículo robótico controlado remotamente por radiofrequência (RF), desenvolvido para permitir o controle de seus movimentos à distância. | [Carrinho Explorador]( https://github.com/MavPro-tech/Carrinho_Explorador )
 |  3SEM | Painel Didático  | Interno | O painel didático de automação industrial é um sistema desenvolvido para demonstrar a partida direta e a reversão do sentido de rotação de um motor trifásico, utilizando um CLP Siemens LOGO! para controlar seu funcionamento por meio de uma programação em linguagem Ladder. | [Painel Didático](https://github.com/MavPro-tech/Painel_Didatico)
+|  4SEM | Monitoramento via WI-FI| Interno | Sistema de monitoramento de temperatura e umidade via Wi-Fi, utilizando sensores e uma interface com tela touchscreen para a visualização dos dados em tempo real.| [Monitoramento via WI-FI](https://github.com/MavPro-tech/Monitoramento-de-temperatura-e-umidade-via-WiFi-)
 
 
 ## 👥 Equipe
